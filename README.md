@@ -19,7 +19,7 @@ Każdy folder zawiera podfoldery dla klas (`cat`, `dog`). Dane są przygotowane 
 
 ## Cel repozytorium
 
-Repozytorium zawiera **subset danych przygotowany do celów edukacyjnych i badawczych**. Umożliwia:
+Repozytorium zawiera **podzbiór danych przygotowany do celów edukacyjnych i badawczych**. Umożliwia:
 
 - odtworzenie eksperymentów z wykorzystaniem CNN,  
 - testowanie wpływu redukcji wymiarowości PCA na dokładność modeli,  
